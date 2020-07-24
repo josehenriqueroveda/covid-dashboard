@@ -1,3 +1,5 @@
+[Deployed Covid Dashboard](https://covid-worldinfo.herokuapp.com/)
+
 ![covid-header](https://raw.githubusercontent.com/josehenriqueroveda/covid-dashboard/master/img/header.jpg)
 
 ## What is COVID-19?
